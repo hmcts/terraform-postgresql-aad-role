@@ -12,10 +12,7 @@ variable "db_name" {
   description = "Database Name"
   type        = string
 }
-variable "db_role" {
-  description = "Database Role"
-  type        = string
-}
+
 variable "server_name" {
 
 }
